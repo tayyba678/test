@@ -11,7 +11,7 @@ int main()
     {
         cin>>wor[x];
     }
-    longest7SegmentWord(wor);
+  cout<<longest7SegmentWord(wor);
 }
 string longest7SegmentWord(string word[])
 {
